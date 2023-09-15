@@ -130,9 +130,3 @@ Some limitations and ideas for further analysis include:
 >- Our data is currently limited to the reviews and ratings on the Apple App Store. Collecting and analyzing app reviews from the Google Play Store to examine how they compare would help us get a well-rounded idea of the sentiments of all mobile app users, as opposed to just Apple users.
 >- Possible implementation of Latent Dirichlet Allocation topic modeling to extract deeper insights on what topics could be found in negative vs positive reviews.
 
-For the full in-depth analysis, please refer to the following files:
-- [Data Collection Notebook](https://github.com/ds-leehanjin/app-reviews-nlp-sentiment-analysis/blob/master/data-collection.ipynb)
-- [Main Analysis Notebook](https://github.com/ds-leehanjin/app-reviews-nlp-sentiment-analysis/blob/master/notebook.ipynb) 
-- [Presentation PDF](https://github.com/ds-leehanjin/app-reviews-nlp-sentiment-analysis/blob/master/presentation.pdf)
-
-Feel free to contact me at [lee.hanjin@gmail.com](mailto:lee.hanjin@gmail.com) with any further questions.
