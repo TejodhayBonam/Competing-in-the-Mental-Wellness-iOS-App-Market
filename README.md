@@ -22,9 +22,8 @@ Questions to consider:
 ***
 
 The full in-depth analysis can be found at the following links:
-- [Data Collection Notebook](https://github.com/ds-leehanjin/app-reviews-nlp-sentiment-analysis/blob/master/data-collection.ipynb)
-- [Main Analysis Notebook](https://github.com/ds-leehanjin/app-reviews-nlp-sentiment-analysis/blob/master/notebook.ipynb) 
-- [Presentation PDF](https://github.com/ds-leehanjin/app-reviews-nlp-sentiment-analysis/blob/master/presentation.pdf)
+- [Data Collection Notebook](https://github.com/TejodhayBonam/Competing-in-the-Mental-Wellness-iOS-App-Market/blob/master/data-collection.ipynb)
+- [Main Analysis Notebook](https://github.com/TejodhayBonam/Competing-in-the-Mental-Wellness-iOS-App-Market/blob/master/notebook.ipynb) 
 
 
 
